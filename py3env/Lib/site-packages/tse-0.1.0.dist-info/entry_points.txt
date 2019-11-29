@@ -1,0 +1,3 @@
+[console_scripts]
+tse = tse.main:main
+
